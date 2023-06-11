@@ -3,11 +3,10 @@ EquationGPT OpenAI Finetune Dataset
 
 Introduction
 ================
-This repo is to hold the public dataset for EquationGPT, which aims to collect Equation related Q&A corpus to finetune foundation models of GPT/ChatGPT.
-Each prompt-completion pairs contains information about the latex code for the equation, the meaning of each symbols, and related materials. The dataset is collected from website http://www.deepnlp.org/equation/ and contains 8k+ prompt-completion pairs to finetune the GPT model.
+This repo contains public dataset for training EquationGPT, which aims to collect science and tech equations related Q&A corpus to finetune foundation models of GPT/ChatGPT.
+Each prompt-completion pairs contains information about the latex code for the equation, the meaning of each symbol, and related materials. The datasets are collected from website http://www.deepnlp.org/equation/ and contains 8k+ prompt-completion pairs to finetune the GPT model.
 
 See this OpenAI blog for details of how to finetune your GPT model. https://platform.openai.com/docs/guides/fine-tuning.
-
 
 ### Dataset Statistics
 
