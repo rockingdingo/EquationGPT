@@ -38,9 +38,9 @@ We will continue to collect and grow resources and hopefully this repo of resour
 [Economics and Financial Engineering Equation](http://deepnlp.org/equation/category/economics) <br>
 
 
-## Physics
+## Physics Equation and Formula
 
-[Physics Equation](http://www.deepnlp.org/equation?category=physics) <br>
+[Physics Equation and Formula](http://www.deepnlp.org/equation?category=physics) <br>
 
 [Maxwell Equations Integral](http://www.deepnlp.org/equation/maxwell-equations-integral) <br>
 [Fourier Series：](http://www.deepnlp.org/equation/fourier-series) <br>
@@ -137,9 +137,9 @@ We will continue to collect and grow resources and hopefully this repo of resour
 [Speed of Light](http://www.deepnlp.org/equation/speed-of-light) <br>
 
 
-## Math: Calculus and Linear Algebra
+## Math Equation and Formula: Calculus and Linear Algebra
 
-[Math Calculus and Linear Algebra](http://www.deepnlp.org/equation?category=math) <br>
+[Math Equation and Formula Calculus and Linear Algebra](http://www.deepnlp.org/equation?category=math) <br>
 [Maxwell Equations Integral](http://www.deepnlp.org/equation/maxwell-equations-integral) <br>
 [Taylor Series](http://www.deepnlp.org/equation/taylor-series) <br>
 [Maclaurin Series](http://www.deepnlp.org/equation/maclaurin-series) <br>
@@ -250,18 +250,18 @@ We will continue to collect and grow resources and hopefully this repo of resour
 [Laplace Distribution](http://www.deepnlp.org/equation/laplace-distribution) <br>
 
 
-## Machine Learning
-[Machine Learning Equation List](http://www.deepnlp.org/equation?category=machine%20learning) <br>
+## Machine Learning Equation and Formula
+[Machine Learning Equation and Formula](http://www.deepnlp.org/equation?category=machine%20learning) <br>
 
-### Large Language Model
-[Language Modelling](http://www.deepnlp.org/equation/language-modelling) <br>
+### Large Language Model Equation and Formula
+[Language Modelling Equation and Formula](http://www.deepnlp.org/equation/language-modelling) <br>
 [LORA Low Rank Adaptation](http://www.deepnlp.org/equation/low-rank-adaptation-lora) <br>
 [PPO Proximal Policy Optimization](http://www.deepnlp.org/equation/proximal-policy-optimization) <br> 
 [DPO Direct Policy Optimization](http://www.deepnlp.org/equation/direct-policy-optimization-dpo) <br>
 [Perplexity of LM](http://www.deepnlp.org/equation/perplexity-of-language-model) <br>
 
 ### CV and NLP
-[Transformer](http://deepnlp.org/equation/transformer) <br>
+[Transformer Equation and Formula](http://deepnlp.org/equation/transformer) <br>
 [GAN Generative Adversarial Networks](http://deepnlp.org/equation/generative-adversarial-networks-gan) <br>
 [VAE Variational Autoencoder](http://deepnlp.org/equation/variational-autoencoder-vae) <br>
 [CRF Conditional Random Field](http://www.deepnlp.org/equation/conditional-random-field-crf) <br>
@@ -298,10 +298,8 @@ We will continue to collect and grow resources and hopefully this repo of resour
 [QINI Coefficient](http://www.deepnlp.org/equation/qini)
 
 
-
-
-## Economics and Financial Engineering
-[Economics and Financial Engineering](http://deepnlp.org/equation/category/economics) <br>
+## Economics and Financial Engineering Equation and Formula
+[Economics and Financial Engineering Equation and Formula](http://deepnlp.org/equation/category/economics) <br>
 [Simple Interest](http://www.deepnlp.org/equation/simple-interest) <br>
 [Compound Interest](http://www.deepnlp.org/equation/compound-interest) <br>
 [Effective Rate](http://www.deepnlp.org/equation/effective-rate) <br>
